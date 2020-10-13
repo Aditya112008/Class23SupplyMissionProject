@@ -1,2 +1,1 @@
-# Class23SupplyMissionProject
-Class 23
+# SupplyMission
